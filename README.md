@@ -13,7 +13,7 @@
 </p>
 
 <details>
-  <summary>📃 Resume</summary>
+  <summary>📃 Resume(click this)</summary>
 
 
 ## Education
