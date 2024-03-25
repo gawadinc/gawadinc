@@ -77,7 +77,7 @@
 
 </details>
 
-- 🌱 I’m currently learning on <img width="1017" height="166" src="https://prometheus.org.ua/wp-content/uploads/2022/04/logo_yellow_blue.svg" /> :
+- 🌱 I’m currently learning on <img width="1017" height="166" src="https://prometheus.org.ua/wp-content/uploads/2022/04/logo_yellow_blue.svg"> :
   <a href="https://prometheus.org.ua/prometheus-plus/devops_and_kubernetes/"> DevOps та Kubernetes. Практичний інтенсив</a>
 <!--
 **gawadinc/gawadinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
