@@ -79,6 +79,10 @@
 
 - 🌱 I’m currently learning on <img width="215" height="36" src="https://prometheus.org.ua/wp-content/uploads/2022/04/logo_yellow_blue.svg"> :
   <a href="https://prometheus.org.ua/prometheus-plus/devops_and_kubernetes/"> DevOps та Kubernetes. Практичний інтенсив</a>
+</p>
+- 💬 My Hobby ...
+  </p>
+  <a href="https://github.com/gawadinc/race3DGo/tree/master">this</a>
 <!--
 **gawadinc/gawadinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
