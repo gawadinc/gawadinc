@@ -1,14 +1,27 @@
 ### Hi there 👋 I'm Vadim 👨‍💻
 
+<p align='center'>
+  A senior java developer from Ukraine.
+</p>
+
+<p align='center'>
+  <a href="https://www.linkedin.com/in/vadim-gavrylyuk-b42b2a1b/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
+
 <details>
   <summary>📃 Resume</summary>
 
 
 ## Education
 
-- 📖 **Web Development**\
-📆 2013 - 2016\
-📍 **University of the West of São Paulo** - Presidente Prudente, Brazil
+- 📖 **Master's degreeMaster's degree**\
+📆 Sep 1998 - Jun 2003\
+📍 **Kyiv National University of Technologies and Design (KNUTD)** - Kiev, Ukraine
+
+https://knutd.edu.ua/
+
 
 ## Experience
 
