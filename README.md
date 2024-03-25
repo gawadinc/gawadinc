@@ -18,17 +18,18 @@
 
 ## Education
 
-- 📖 **Master's degreeMaster's degree**\
+- 📖 **Master's degree**\
 📆 Sep 1998 - Jun 2003\
 📍 **Kyiv National University of Technologies and Design (KNUTD)** - Kiev, Ukraine
 
-https://knutd.edu.ua/
+- https://knutd.edu.ua/
 
+- 📖 **Java**\
+📆 May 2007 - Apr 2008\
+📍 **Kurses - 1s, 2s stages: Essentials Java Language, Advanced Java Language** - Kiev, Ukraine
 
 ## Experience
 
-<img align="right" src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" />
-<img align="right" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
 
 
 - 👨‍💻 **Software Engineer**\
@@ -55,7 +56,7 @@ https://knutd.edu.ua/
 
 - 👨‍💻 **Java Developer at DeutscheBank**\
 📆 Sep 2015 - Dec 2016 · 1 yr 4 mos\
-📍 **LuxoftLuxoft · Full-time** - Ukraine · On-site
+📍 **Luxoft · Full-time** - Ukraine · On-site
 
 
 
@@ -68,10 +69,10 @@ https://knutd.edu.ua/
 📆 Nov 2012 - Oct 2014 · 2 yrs\
 📍 **Dukascopy Bank SA** - Ukraine · On-site
 
-- and etc
+- and etc\
 
 - 👨‍💻 **Java Software Engineer**\
-📆 Apr 2008 - Nov 2012 · 2 yrs\  
+📆 Apr 2008 - Nov 2012 · 4 yrs 7 mos\  
 📍 **EPAM Systems, Luxoft, UkrSibbank, BMS Soft LLC, ProFIX** - Ukraine · On-site
 
 </details>
